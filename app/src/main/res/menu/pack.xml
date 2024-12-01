@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/homepage"
+    android:title="Home"
+    android:icon="@drawable/home"/>
+    <item android:id="@+id/series"
+        android:title="Test Series"
+        android:icon="@drawable/test"/>
+    <item id="@+id/settings"
+        android:title="Settings"
+        android:icon="@drawable/sun"/>
+    <item android:id="@+id/mycourse"
+        android:title="My course"
+        android:icon="@drawable/curriculum"/>
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "924736480024",
+    "project_id": "edtech-b7643",
+    "storage_bucket": "edtech-b7643.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924736480024:android:7db62b77b324fb43d1f46d",
+        "android_client_info": {
+          "package_name": "com.example.edtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924736480024-vdhqfnifkbp2um1o1o9bc4a7jmfjt6s3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edtech",
+            "certificate_hash": "fc3de861badd35d06f443b6faa1b93efa0222645"
+          }
+        },
+        {
+          "client_id": "924736480024-dh6av81i28k5sa6ejkv543rnsf42r3hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLv0oFOdRa-uCDlu8bfWzBr0yh6ZgD0gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924736480024-dh6av81i28k5sa6ejkv543rnsf42r3hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
